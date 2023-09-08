@@ -23,5 +23,5 @@ jobs:
             -Dsonar.organization=vitorveiga-1
             -Dsonar.projectKey=vitorveiga-1_monorepo-example
             -Dsonar.python.coverage.reportPaths=coverage.xml
-            -Dsonar.sources=packages/simple-express-server,simple-shared-data
+            -Dsonar.sources=packages/simple-express-server,packages/simple-shared-data
             -Dsonar.verbose=true
