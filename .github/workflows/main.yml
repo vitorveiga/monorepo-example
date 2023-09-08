@@ -39,6 +39,6 @@ jobs:
         with:
           args: >
             -Dsonar.organization=vitorveiga-1
-            -Dsonar.projectKey=vitorveiga-1_monorepo-example-1
+            -Dsonar.projectKey=vitorveiga-1_monorepo-example_1
             -Dsonar.sources=packages/simple-react-server,packages/simple-shared-data
             -Dsonar.verbose=true
